@@ -1,0 +1,38 @@
+body {
+    background-color: violet;
+    color: dark orchid
+    }
+
+h1 {
+    Color:white
+    font-family: verdana;
+    font-size: 100%;
+    }
+p {
+    color: darkmagenta;
+    font-family: verdana;
+    font-size: 100%;
+    }
+
+section>b,
+div>b {
+    color: Black font-family: 
+    verdana;
+    }
+
+h2 {
+    color: rgb(130, 14, 238)
+    }   
+
+body {
+    color: indigo;
+    font-family: verdana;
+    margin: 0;
+    padding: 0;
+}
+
+H3 {
+    font-family: Verdana;
+    color: black;
+}
+
